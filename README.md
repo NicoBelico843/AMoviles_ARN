@@ -25,5 +25,6 @@ Italica y negrita:
 ***Ambas cosas a la vez***
 
 Pegar imagen:
+
 ![Ciclo de vida de una android app](https://www.homeandlearn.co.uk/android/images/activities/lifecycle_flowchart.gif)
 
