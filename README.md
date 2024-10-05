@@ -16,3 +16,15 @@ Listas
 2. Dos
 3. Tres
 4. Cuatro
+
+Negritas
+
+**Negro**
+
+Italica
+
+_Como en whatsapp_
+
+Italica y negrita
+
+***Ambas cosas a la vez***
